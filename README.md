@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في ظلام الليل
+> روحك تنادي، روحي تميل
+> نار الشوق تحرق كل ميل
+> راضي بنصيبي، ومالي بديل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
