@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/radi-be-nasibi-satisfied-with-my-destinyshare/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Radi Be Nasibi – Satisfied with my destiny/share.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
